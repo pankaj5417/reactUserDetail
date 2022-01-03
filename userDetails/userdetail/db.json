@@ -1,0 +1,53 @@
+{
+  "userDetail": [
+    {
+      "username": "Pankaj54178",
+      "age": "23",
+      "address": "C/O Sambhu chandrayan, Gabbar singh gali near CDS school jai prakashnagar patna-1",
+      "salary": "54000",
+      "department": "",
+      "checkbox": true,
+      "image": "C:\\fakepath\\Screenshot (3510).png",
+      "id": 1
+    },
+    {
+      "username": "Pankaj54178",
+      "age": "23",
+      "address": "C/O Sambhu chandrayan, Gabbar singh gali near CDS school jai prakashnagar patna-1",
+      "salary": "54000",
+      "department": "",
+      "checkbox": true,
+      "image": "C:\\fakepath\\Screenshot (3510).png",
+      "id": 2
+    },
+    {
+      "username": "Rohan Lal",
+      "age": "62",
+      "address": "C/O Sambhu chandrayan, Gabbar singh gali near CDS school jai prakashnagar patna-1",
+      "salary": "54000",
+      "department": "",
+      "checkbox": true,
+      "image": "C:\\fakepath\\Screenshot (3510).png",
+      "id": 3
+    },
+    {
+      "username": "mohan Lal",
+      "age": "62",
+      "address": "C/O Sambhu chandrayan, Gabbar singh gali near CDS school jai prakashnagar patna-1",
+      "salary": "84000",
+      "department": "",
+      "checkbox": true,
+      "image": "C:\\fakepath\\Screenshot (3510).png",
+      "id": 4
+    },
+    {
+      "username": "",
+      "age": "",
+      "address": "",
+      "salary": "",
+      "department": "",
+      "checkbox": "",
+      "id": 5
+    }
+  ]
+}
