@@ -40,7 +40,7 @@ export const Form=() =>{
     },[page])
        
         const getTodo=()=>{
-        fetch(`http://localhost:3001/userDetail?page=${page}&_limit=2 `)
+        fetch(`http://localhost:3001/userDetail?page=${page}&_limit=10 `)
         .then((d)=>d.json()).then((res)=>{
             setData(res)
         })

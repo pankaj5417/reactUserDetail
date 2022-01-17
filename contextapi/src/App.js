@@ -1,13 +1,13 @@
 import logo from './logo.svg';
 import './App.css';
-import { Form } from './components/Form';
-import { MainCrud } from './components/Table';
+import { Body } from './components/Body';
+import { Navbar } from './components/Navbar';
 
 function App() {
   return (
     <div className="App">
-    {/*  <MainCrud />*/}
-      <Form />
+      <Navbar />
+      <Body></Body>
     </div>
   );
 }

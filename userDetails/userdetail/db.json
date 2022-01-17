@@ -48,6 +48,16 @@
       "department": "",
       "checkbox": "",
       "id": 5
+    },
+    {
+      "username": "Ganesh Singh",
+      "age": "34",
+      "address": "UtterPradesh",
+      "salary": "34000",
+      "department": "",
+      "checkbox": true,
+      "image": "C:\\fakepath\\Screenshot (3516).png",
+      "id": 6
     }
   ]
 }
